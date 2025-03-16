@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nurul 👋</h1>
 
-<p>I'm a Software Engineer at <a href="https://github.com/servicerocket">ServiceRocket</a> where I contribute via my alternate Github account: <a href="https://github.com/nrlzmn">@nrlzmn</a>.</p>
+<p>I'm a former Software Engineer at <a href="https://github.com/servicerocket">ServiceRocket</a>, now working as a Digital Solutions Engineer at <a href="https://github.com/cloudflare">Cloudflare</a>, while continuing to contribute via my alternate GitHub account: <a href="https://github.com/nrlzmn">@nrlzmn</a>.</p>
 
 <p>I have 6+ years of comprehensive experience in developing, writing automated tests, and deploying softwares. I have worked with serverless and containerized technology (mainly hosted on AWS), CI/CD tools such as GitHub Actions and Jenkins, web app frameworks such as Play, Next.js and Ruby on Rails, languages such as Scala, TypeScript, Ruby.</p>
 
